@@ -55,7 +55,7 @@ The CNN model features a sophisticated architecture optimized for medical image 
 ### Prerequisites
 
 ```bash
-Python 3.8+
+Python 3.10
 pip (Python package manager)
 ```
 
@@ -131,8 +131,8 @@ Contributions are welcome! Please feel free to:
 ## 📞 Contact
 
 **Adeel Ahmed Satti**
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/adeel-ahmed-satti-a3792027b/)
-- GitHub: [@adeelahmed1293](https://github.com/adeelahmed1293)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/zahra-batool-29a96a3b1/)
+- GitHub: [@zahraghulam](https://github.com/zahraghulam)
 
 ## 🙏 Acknowledgments
 
