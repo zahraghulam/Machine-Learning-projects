@@ -130,7 +130,7 @@ Contributions are welcome! Please feel free to:
 
 ## 📞 Contact
 
-**Adeel Ahmed Satti**
+**zahra Batool**
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/zahra-batool-29a96a3b1/)
 - GitHub: [@zahraghulam](https://github.com/zahraghulam)
 
