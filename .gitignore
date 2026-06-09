@@ -1,0 +1,21 @@
+# Python generated
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+*.egg-info
+*.zip
+*.keras
+
+# Virtual environment
+.venv/
+
+# Kaggle + datasets
+kaggle.json
+
+# Project heavy data
+Notebook/Training/
+Notebook/Testing/
+Notebook/brain-tumor-mri-dataset.zip
+Notebook/brain_tumor_model.keras
