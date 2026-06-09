@@ -63,7 +63,7 @@ pip (Python package manager)
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/adeelahmed1293/Machine-Learning-projects-.git
+git clone https://github.com/zahraghulam/Machine-Learning-projects-.git
 cd Machine-Learning-projects-/Brain_Tumor_Prediction
 ```
 
